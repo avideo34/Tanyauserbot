@@ -1,0 +1,21 @@
+# Security / Environment Variables
+.env
+
+# Telethon Session Files (CRITICAL: Do not upload these!)
+*.session
+*.session-journal
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
